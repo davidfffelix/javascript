@@ -12,7 +12,7 @@ console.log("Meu nome é", primeiroNome, sobrenome);
 console.log('Meu nome é ' + primeiroNome + ' ' + sobrenome);
 
 const nomeCompleto = primeiroNome + ' ' + sobrenome;
-console.log(nomeCompleto);
+console.log(nomeCompleto); 
 
 
 
